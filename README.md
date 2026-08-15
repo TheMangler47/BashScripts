@@ -43,13 +43,25 @@ No Color :
   manglerfetch.sh --no-color
 ```
 
+Cloning the Repo :
+
+```bash
+git clone https://github.com/TheMangler47/BashScripts.git
+```
+```bash
+cd BashScripts
+```
 
 How To Instal WSL?
 
 - Win+R
 - Type ```powershell```
 - In Powershell type ```wsl --install```
-
+- Restart Your Computer
+- Wait For a Terminal Window to Pop Up
+- Enter a Username
+- Enter a Password (Please Note That Chars That Are Typed in Will not Show!)
+- And Done!
 
 How To Install Git?
 
