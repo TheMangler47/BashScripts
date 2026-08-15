@@ -1,4 +1,4 @@
-# BashScripts
+R# BashScripts
 my repo of bash scripts i made or make 
 
 
@@ -42,3 +42,17 @@ No Color :
 ```bash
   manglerfetch.sh --no-color
 ```
+
+
+How To Instal WSL?
+
+- Win+R
+- Type ```powershell```
+- In Powershell type ```wsl --install```
+
+
+How To Install Git?
+
+- Go To The (Git Website)[https://git-scm.com/install/]
+- Choose Your Operating System (Windows, Linux or MacOS)
+- Follow The Steps For Your OS And Install!
