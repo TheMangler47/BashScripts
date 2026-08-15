@@ -53,6 +53,6 @@ How To Instal WSL?
 
 How To Install Git?
 
-- Go To The (Git Website)[https://git-scm.com/install/]
+- Go To The [Git Website](https://git-scm.com/install/)
 - Choose Your Operating System (Windows, Linux or MacOS)
 - Follow The Steps For Your OS And Install!
