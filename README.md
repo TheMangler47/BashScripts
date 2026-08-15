@@ -16,6 +16,11 @@ Choose Option [1-10]
 9. Refresh Dash
 10. Quit
 
+use hub.sh just in terminal on Linux
+```bash
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/TheMangler47/BashScripts/refs/heads/main/hub.sh)"
+```
+
 
 
 # Usage for ManglerFetch.sh
